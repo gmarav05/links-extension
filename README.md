@@ -1,3 +1,3 @@
 ## Pull test
 
-Testing pull from other branch
+Testing pull from the other branch
